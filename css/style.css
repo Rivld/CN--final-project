@@ -15,6 +15,12 @@ footer {
     padding-top: 100px;
 }
 
+.show1:hover,
+.show2:hover,
+.show3:hover {
+    color: blue;
+}
+
 .navbar-nav .nav-link {
     color: white;
 }
